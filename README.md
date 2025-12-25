@@ -1,4 +1,4 @@
-\# Telecom Churn Prediction
+# Telecom Churn Prediction
 
 
 
@@ -14,7 +14,7 @@ The project was developed as part of an \*\*Introduction to Big Data and Data Sc
 
 
 
-\## Problem Statement
+## Problem Statement
 
 
 
@@ -28,11 +28,11 @@ This project aims to build a predictive model that accurately classifies whether
 
 
 
-\## Dataset
+## Dataset
 
 
 
-\- Telecom customer data containing:
+- Telecom customer data containing:
 
 &nbsp; - Customer demographics
 
@@ -40,7 +40,7 @@ This project aims to build a predictive model that accurately classifies whether
 
 &nbsp; - Contract and billing details
 
-\- Target variable: \*\*Churn (Yes / No)\*\*
+- Target variable: \*\*Churn (Yes / No)\*\*
 
 
 
@@ -48,53 +48,53 @@ This project aims to build a predictive model that accurately classifies whether
 
 
 
-\## Technologies Used
+## Technologies Used
 
 
 
-\### Programming \& Environment
+### Programming \& Environment
 
-\- Python
+- Python
 
-\- Google Colab
-
-
-
-\### Big Data Processing
-
-\- Apache Spark (PySpark)
-
-\- Spark SQL
-
-\- DataFrames
+- Google Colab
 
 
 
-\### Feature Engineering
+### Big Data Processing
 
-\- StringIndexer
+- Apache Spark (PySpark)
 
-\- OneHotEncoder
+- Spark SQL
 
-\- VectorAssembler
-
-\- StandardScaler
-
-\- MinMaxScaler
-
-\- Polynomial Expansion
+- DataFrames
 
 
 
-\### Machine Learning
+### Feature Engineering
 
-\- Spark MLlib
+- StringIndexer
 
-\- Random Forest Classifier
+- OneHotEncoder
 
-\- ML Pipelines
+- VectorAssembler
 
-\- Hyperparameter tuning using:
+- StandardScaler
+
+- MinMaxScaler
+
+- Polynomial Expansion
+
+
+
+### Machine Learning
+
+- Spark MLlib
+
+- Random Forest Classifier
+
+- ML Pipelines
+
+- Hyperparameter tuning using:
 
 &nbsp; - ParamGridBuilder
 
@@ -102,27 +102,27 @@ This project aims to build a predictive model that accurately classifies whether
 
 
 
-\### Model Evaluation
+### Model Evaluation
 
-\- BinaryClassificationEvaluator
+- BinaryClassificationEvaluator
 
-\- MulticlassClassificationEvaluator
+- MulticlassClassificationEvaluator
 
-\- ROC Curve
+- ROC Curve
 
-\- Precision–Recall Curve
+- Precision–Recall Curve
 
 
 
-\### Visualization
+### Visualization
 
-\- Matplotlib
+- Matplotlib
 
-\- Seaborn
+- Seaborn
 
-\- Pandas
+- Pandas
 
-\- NumPy
+- NumPy
 
 
 
@@ -130,7 +130,7 @@ This project aims to build a predictive model that accurately classifies whether
 
 
 
-\## Methodology
+## Methodology
 
 
 
@@ -152,7 +152,7 @@ This project aims to build a predictive model that accurately classifies whether
 
 
 
-\## Results
+## Results
 
 
 
@@ -168,7 +168,7 @@ This project aims to build a predictive model that accurately classifies whether
 
 
 
-\## How to Run
+## How to Run
 
 
 
@@ -188,7 +188,7 @@ This project was developed in \*\*Google Colab\*\*.
 
 
 
-\## Key Learnings
+## Key Learnings
 
 
 
@@ -206,7 +206,7 @@ This project was developed in \*\*Google Colab\*\*.
 
 
 
-\## Project Context
+## Project Context
 
 
 
